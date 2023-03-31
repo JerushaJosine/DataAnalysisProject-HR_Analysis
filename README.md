@@ -31,9 +31,9 @@ Steps for Analysis:
     h. Copy paste the same table and change that to check the day of the week and WFH% of the employee's. (Well we all        know the answer it might be firday or             monday the most).
     i. paste the same slicer and check the wek of the day and SL% to know the whcih day most of the employees are            absent for the office.
     
- Report Generation:
-        a. Publish the dashboard to the Power BI service.
-        b. Share the report with HR manager and other stackholders.
+4. Report Generation:
+    a. Publish the dashboard to the Power BI service.
+    b. Share the report with HR manager and other stackholders.
      
 Conclusion:
          This Attendence analysis using Excel, SQL, and Power BI is a powerful tool for HR manager to gain insights into their workforce's attendence patterns. By fillowing the above steps, we can create an informative and interactive reports that help in making data-driven decision to imporve employee attendence ad productivity.
