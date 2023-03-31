@@ -37,7 +37,6 @@ Steps for Analysis:
     b. Share the report with HR manager and other stackholders.
      
 Conclusion:
-
          This Attendence analysis using Excel, SQL, and Power BI is a powerful tool for HR manager to gain insights into their workforce's attendence patterns. By fillowing the above steps, we can create an informative and interactive reports that help in making data-driven decision to imporve employee attendence ad productivity.
    
       
