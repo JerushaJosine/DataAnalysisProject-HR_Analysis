@@ -24,7 +24,7 @@ Steps for Analysis:
     1. Open Power BI Desktop and import data from Excel and transform the data.
     2. Create a data visualizations table for Employee's name, Presence %, WFH %, SL % .
     3. Create a matrix filter to see all the Employee's names and Attendence Key for everyday for April, May and June of 2022.
-    4. Add a slice at top-right to select ech month or complete data.
+    4. Add a slice at top-right to select each month or complete data.
     5. Add a liner graph and table to Presece% by date and use the filters to Date (on or before June 2022) and Value   (is not WO) and at last add the trend                  line to understand the attendence trend. 
     6. Copy and Paste the graph and chance Presence% to WFH% and SL% for the following two graphs.
     7. Add a slicer to check which day the week and Presence% of the employee's.
