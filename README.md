@@ -25,11 +25,11 @@ Steps for Analysis:
     2. Create a data visualizations table for Employee's name, Presence %, WFH %, SL % .
     3. Create a matrix filter to see all the Employee's names and Attendence Key for everyday for April, May and June of 2022.
     4. Add a slice at top-right to select each month or complete data.
-    5. Add a liner graph and table to Presece% by date and use the filters to Date (on or before June 2022) and Value   (is not WO) and at last add the trend                  line to understand the attendence trend. 
-    6. Copy and Paste the graph and chance Presence% to WFH% and SL% for the following two graphs.
-    7. Add a slicer to check which day the week and Presence% of the employee's.
-    8. Copy paste the same table and change that to check the day of the week and WFH% of the employee's. (Well we all        know the answer it might be firday or             monday the most).
-    9. paste the same slicer and check the wek of the day and SL% to know the whcih day most of the employees are            absent for the office.
+    5. Add a liner graph and table to Presence% by date and use the filters to Date (on or before June 2022) and Value   (is not WO) and at last add the trend                  line to understand the attendence trend. 
+    6. Copy and Paste the graph and change Presence% to WFH% and SL% for the following two graphs.
+    7. Add a slicer to check which day of the week and Presence% of the employee's.
+    8. Copy paste the same table and change that to check the day of the week and WFH% of the employee's. (Well we all        know the answer it might be friday or             monday the most).
+    9. paste the same slicer and check the week of the day and SL% to know the which day most of the employees are            absent for the office.
     
 4. Report Generation:
 
