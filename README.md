@@ -2,7 +2,7 @@
 
 HR Data Analysis using Excel and Power Bi
 
-# ![Presence-Insights](https://user-images.githubusercontent.com/73361928/233222341-ff94206b-2c66-4f4f-900e-b0b0ad0bf0b8.png)
+ ![Presence-Insights](https://user-images.githubusercontent.com/73361928/233222341-ff94206b-2c66-4f4f-900e-b0b0ad0bf0b8.png)
 
 
 
